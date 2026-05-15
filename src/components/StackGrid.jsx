@@ -30,7 +30,7 @@ const colorMap = {
 
 export default function StackGrid() {
   return (
-    <section className="py-24 max-w-6xl mx-auto px-6">
+    <section id="stack" className="py-24 max-w-6xl mx-auto px-6">
       <h2 className="text-4xl font-bold mb-16 border-l-4 border-blue-600 pl-6">
         Stack Técnico
       </h2>
